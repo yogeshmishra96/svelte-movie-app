@@ -106,3 +106,4 @@ npm run build
 surge public my-project.surge.sh
 ```
 # svelte-movie-search
+"# svelte-movie-app" 
