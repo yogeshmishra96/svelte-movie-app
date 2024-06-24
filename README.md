@@ -3,7 +3,8 @@
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-movie-app
+
 npm install
 ```
 
